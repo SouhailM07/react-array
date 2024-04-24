@@ -1,0 +1,19 @@
+{
+  "name": "react-array",
+  "version": "0.0.1",
+  "description": "Tired of writing your React lists in multiple lines with clunky syntax? 😤 Introducing React Array! 🚀 Say goodbye to tedious list formatting and hello to streamlined efficiency. With React Array, coding lists is as simple as a single line of code! 😎",
+  "main": "index.js",
+  "directories": {
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SouhailM07/react-array"
+  },
+  "keywords": [
+    "react",
+    "arrays"
+  ],
+  "author": "shadow07",
+  "license": "MIT"
+}
