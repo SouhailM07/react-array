@@ -1,6 +1,6 @@
 <p align="center">
     <img width="180" src="./src/ArrSolutionLogo.png" alt="logo">
-    <p style="text-align:center;color:#52b4cc;font-size:45px">React Array</p>
+    <p align="center" style="text-align:center;color:#52b4cc;font-size:45px">React Array</p>
 </p>
 <br/>
 <p align="center">
@@ -32,7 +32,7 @@ npm i react-array
 
 ```
 import "./mycontainer.css";
-import ReactArray from "react-array"
+import { ReactArr } from "react-array";
 
 // Define a separate functional component
   // if are using normal array
