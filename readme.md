@@ -35,7 +35,7 @@ import "./mycontainer.css";
 import { ReactArr } from "react-array";
 
 // Define a separate functional component
-  // if are using normal array
+  // if you are using normal array
 const HelloComponent = ({ e }) => (
   <div>
     <p>{e}</p>
@@ -51,11 +51,13 @@ const TestComponent = ({ type,value }) => (
 
 export default function MyContainer() {
 
-  // if are using normal array
+  // if you are using normal array
   cont arr = ["one", "two", "three"];
 
   // If you are using an array with objects, the keys in your component must match the keys in your array.
-  cont arr = [{type:"normal text",value:"one},{type:"anything",value:"two"},{type:"just number",value:"three"}];
+  cont arr = [{type:"normal text",value:"one},
+              {type:"anything",value:"two"},
+              {type:"just number",value:"three"}];
 
   return (
     <>
