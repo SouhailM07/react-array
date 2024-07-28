@@ -1,6 +1,6 @@
 {
   "name": "react-array",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "Tired of writing your React lists in multiple lines with clunky syntax? 😤 Introducing React Array! 🚀 Say goodbye to tedious list formatting and hello to streamlined efficiency. With React Array, coding lists is as simple as a single line of code! 😎",
   "main": "core.js",
   "directories": {
@@ -16,5 +16,8 @@
     "arrays"
   ],
   "author": "shadow07",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-array": "^0.0.8"
+  }
 }
